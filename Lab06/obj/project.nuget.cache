@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hOH+bstfIuUbq1EXG0MZJrbACTE6CyRJS0tuKSDUQHMlChj/O2nHT5VrVL+lcH9kcQLoVz/S7VkgnSfG1YnqSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NHTI\\Desktop\\IT_Lab06\\Lab06\\Lab06.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NHTI\\.nuget\\packages\\system.io.ports\\6.0.0\\system.io.ports.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
